@@ -1,1 +1,2 @@
-Text file new
+Text file new from sample3
+
